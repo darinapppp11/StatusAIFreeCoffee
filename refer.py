@@ -125,8 +125,8 @@ async def async_login_with_invite_code(invite_code: str, proxy: dict = None):
 
 if __name__ == "__main__":
     # Пример использования функции
-    invite_code = ""  # Замените на нужный код приглашения
+    invite_code = "sY1xN1EfZt" # Замените на нужный код приглашения
     status_code, response_body = login_with_invite_code(invite_code)
 
-    print("Status Code:", status_code)
-    print("Response Body:", response_body)
+    print("sY1xN1EfZt:", status_code)
+    print("sY1xN1EfZt:", response_body)
